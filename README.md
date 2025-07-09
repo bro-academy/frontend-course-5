@@ -54,7 +54,7 @@ Group 1
 
 |   Week | Date   | Topic                            | Mentor   |
 |--------|--------|----------------------------------|----------|
-|      1 | 14.07  | Intro                            | Andrey G |
+|      1 | 14.07  | [Intro](lesson-1-intro.md)       | Andrey G |
 |      1 | 16.07  | Internet + browser               | Andrey G |
 |      2 | 21.07  | HTML                             | Aleksandr|       
 |      2 | 23.07  | HTML                             | Aleksandr|
