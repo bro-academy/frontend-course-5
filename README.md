@@ -90,16 +90,16 @@ Group 1
 | 12.11  | Animation                        | Artem    |
 | 17.11  | Pre-final                        | Artem    |
 | 19.11  | Pixel perfect / content overflow | —        |
-|        | Diploma                          | —        |
-|        | Diploma                          | —        |
-|        | Diploma                          | —        |
-|        | Diploma                          | —        |
+|        | Diploma                          |          |
+|        | Diploma                          |          |
+|        | Diploma                          |          |
+|        | Diploma                          |          |
 
 Group 2
 
 | Date   | Topic                            | Tutor   |
 |--------|----------------------------------|----------|
-| 15.07  | [Intro](lesson-1-intro.md).      | Liza     |
+| 15.07  | [Intro](lesson-1-intro.md)       | Liza     |
 | 17.07  | Internet + browser               | Liza     |
 | 22.07  | HTML                             | Nikita   |
 | 24.07  | HTML                             | Nikita   |
@@ -137,7 +137,7 @@ Group 2
 | 13.11  | Animation                        | —        |
 | 18.11  | Pre-final                        | Liza     |
 | 20.11  | Pixel perfect / content overflow | Liza     |
-|        | Diploma                          | —        |
-|        | Diploma                          | —        |
-|        | Diploma                          | —        |
-|        | Diploma                          | —        |
+|        | Diploma                          |          |
+|        | Diploma                          |          |
+|        | Diploma                          |          |
+|        | Diploma                          |          |
