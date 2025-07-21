@@ -54,29 +54,29 @@ Group 1
 |--------|----------------------------------|----------|
 | 14.07  | [Intro](lesson-1-intro.md)       | Andrey G |
 | 16.07  | Internet + browser               | Andrey G |
-| 21.07  | HTML                             | Aleksandr|       
-| 23.07  | HTML                             | Aleksandr|
+| 21.07  | [HTML](lesson-2-html.md)                             | Aleksandr Kondakov|       
+| 23.07  | HTML                             | Aleksandr Kondakov|
 | 28.07  | GIT                              | Andrey G |
 | 30.07  | GIT                              | Andrey G |
 | 4.08   | CSS Syntax                       | Artem    |
 | 6.08   | CSS Syntax                       | Artem    |
 | 11.08  | BEM                              | Olya     |
 | 13.08  | BEM                              | Olya     |
-| 18.08  | Practice                         | —        |
-| 20.08  | Bundler                          | —        |
+| 18.08  | Practice                         | Andrey G        |
+| 20.08  | Bundler                          | Andrey G        |
 | 25.08  | Components                       | Andrey G |
 | 27.08  | Components                       | Andrey G |
-| 1.09   | SCSS                             | Andrey G |
-| 3.09   | SCSS                             | Andrey G |
+| 1.09   | SCSS                             | Aleksandr Kondakov |
+| 3.09   | SCSS                             | Aleksandr Kondakov |
 | 8.09   | Pseudo-elements/classes          | Artem    |
 | 10.09  | Forms                            | Olya     |
 | 15.09  | Forms                            | Olya     |
 | 17.09  | Practice                         | Andrey G |
-| 22.09  | Images                           | —        |
+| 22.09  | Images                           | Andrey G        |
 | 24.09  | Backgrounds                      | Andrey G |
-| 29.09  | SVG                              | Andrey G |
+| 29.09  | SVG                              | Aleksandr Kondakov |
 | 1.10   | Sizes and spaces                 | Artem    |
-| 6.10   | Positioning                      | —        |
+| 6.10   | Positioning                      | Olya        |
 | 8.10   | Flex                             | Olya     |
 | 13.10  | Flex                             | Olya     |
 | 15.10  | Practice                         | Artem    |
@@ -84,8 +84,8 @@ Group 1
 | 22.10  | Grid                             | Artem    |
 | 27.10  | Adaptive                         | Artem    |
 | 29.10  | Adaptive                         | Artem    |
-| 3.11   | Practice                         | —        |
-| 5.11   | CSS Decorations                  | —        |
+| 3.11   | Practice                         | Artem        |
+| 5.11   | CSS Decorations                  | Aleksandr Kondakov        |
 | 10.11  | Animation                        | Artem    |
 | 12.11  | Animation                        | Artem    |
 | 17.11  | Pre-final                        | Artem    |
@@ -101,40 +101,40 @@ Group 2
 |--------|----------------------------------|----------|
 | 15.07  | [Intro](lesson-1-intro.md)       | Liza     |
 | 17.07  | Internet + browser               | Liza     |
-| 22.07  | HTML                             | Nikita   |
+| 22.07  | [HTML](lesson-2-html.md)                             | Nikita   |
 | 24.07  | HTML                             | Nikita   |
 | 29.07  | GIT                              | Sasha    |
 | 31.07  | GIT                              | Sasha    |
 | 5.08   | CSS Syntax                       | Andrey D |
-| 7.08   | CSS Syntax                       | —        |
+| 7.08   | CSS Syntax                       | Andrey D        |
 | 12.08  | BEM                              | Liza     |
-| 14.08  | BEM                              | —        |
-| 19.08  | Practice                         | —        |
-| 21.08  | Bundler                          | —        |
+| 14.08  | BEM                              | Liza        |
+| 19.08  | Practice                         | Liza        |
+| 21.08  | Bundler                          | Nikita        |
 | 26.08  | Components                       | Nikita   |
 | 28.08  | Components                       | Nikita   |
 | 2.09   | SCSS                             | Liza     |
-| 4.09   | SCSS                             | —        |
-| 9.09   | Pseudo-elements/classes          | —        |
+| 4.09   | SCSS                             | Liza        |
+| 9.09   | Pseudo-elements/classes          | Andrey D        |
 | 11.09  | Forms                            | Andrey D |
 | 16.09  | Forms                            | Andrey D |
 | 18.09  | Practice                         | Andrey D |
-| 23.09  | Images                           | —        |
+| 23.09  | Images                           | Sasha        |
 | 25.09  | Backgrounds                      | Sasha    |
 | 30.09  | SVG                              | Sasha    |
-| 2.10   | Sizes and spaces                 | —        |
-| 7.10   | Positioning                      | —        |
+| 2.10   | Sizes and spaces                 | Andrey D        |
+| 7.10   | Positioning                      | Sasha        |
 | 9.10   | Flex                             | Sasha    |
 | 14.10  | Flex                             | Sasha    |
 | 16.10  | Practice                         | Sasha    |
 | 21.10  | Grid                             | Andrey D |
 | 23.10  | Grid                             | Andrey D |
 | 28.10  | Adaptive                         | Andrey D |
-| 30.10  | Adaptive                         | —        |
-| 4.11   | Practice                         | —        |
+| 30.10  | Adaptive                         | Andrey D        |
+| 4.11   | Practice                         | Andrey D        |
 | 6.11   | CSS Decorations                  | Andrey D |
-| 11.11  | Animation                        | —        |
-| 13.11  | Animation                        | —        |
+| 11.11  | Animation                        | Liza        |
+| 13.11  | Animation                        | Liza        |
 | 18.11  | Pre-final                        | Liza     |
 | 20.11  | Pixel perfect / content overflow | Liza     |
 |        | Diploma                          |          |
