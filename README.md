@@ -56,7 +56,7 @@ Group 1
 | 16.07  | Internet + browser               | Andrey G |
 | 21.07  | [HTML](lesson-2-html.md)                             | Aleksandr Kondakov|       
 | 23.07  | HTML                             | Aleksandr Kondakov|
-| 28.07  | GIT                              | Andrey G |
+| 28.07  | [GIT](lesson-3-git.md)                              | Andrey G |
 | 30.07  | GIT                              | Andrey G |
 | 4.08   | CSS Syntax                       | Artem    |
 | 6.08   | CSS Syntax                       | Artem    |
