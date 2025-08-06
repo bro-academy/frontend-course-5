@@ -1,7 +1,6 @@
 # Lesson 4. Introduction to CSS
 
-<!-- **[Presentation 1](presentations/presentation-4-css-1.pdf)**<br />
-**[Presentation 2](presentations/presentation-4-css-2.pdf)**<br /> -->
+**[Presentation 1](presentations/presentation-4-css.pdf)**<br />
 **[Manual](manuals/manual-4-css.pdf)**<br /> 
 
 <!-- **Part 1:** <br />

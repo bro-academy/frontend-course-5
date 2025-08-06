@@ -19,7 +19,7 @@
    2. Add yourself and your mentor into README.md
    3. Commit and push these changes
    4. Create a pull request and set your mentor as a reviewer
-   5. Wait until your mentor will merge your branch into target branch
+   5. Wait until your mentor will merge your branch into target branch 
 
 2. **Save results of HTML lesson**
    1. Move back to target branch
