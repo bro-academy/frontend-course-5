@@ -4,13 +4,12 @@
 **[Presentation 2](presentations/presentation-3-2-git.pdf)**<br />
 **[Manual](manuals/manual-3-git.pdf)**<br /> 
 
-<!-- **Part 1:** <br /> 
-**[Group 1 video](https://drive.google.com/file/d/1BPyzmgjOe2KRDhD2Ze9uox50AREqJHV0/view?usp=sharing)**<br />
-**[Group 2 video](https://drive.google.com/file/d/19PD7KWOjxcqEaYhbZ4HpEt_cfscbCXKD/view?usp=sharing)**<br />
+**Part 1:** <br /> 
+**[Group 1 video](https://drive.google.com/file/d/1ssVcsSOn2zzoiFFT_keEGZsFuCee4rhA/view?usp=sharing)**<br />
+**[Group 2 video](https://drive.google.com/file/d/1IUBkuhaP_tSmfqJEJElGNlzM30rOnOJb/view?usp=sharing)**<br />
 
 **Part 2:** <br />
-**[Group 1 video](https://drive.google.com/file/d/1zmAk6lVk0VygGwITLWrSjZtySXmFwt7B/view?usp=sharing)**<br />
-**[Group 2 video](https://drive.google.com/file/d/1aqunP8Vc9hwKflCwr0nZzIBru6AJVbkC/view?usp=sharing)**<br />  -->
+**[Group 2 video](https://drive.google.com/file/d/1oN06jgF7xql_vRkGpLcDSmHu0n-sWMkQ/view?usp=sharing)**<br /> 
 
 # Homework
 

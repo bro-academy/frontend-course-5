@@ -23,7 +23,7 @@
       - opacity  
       - background-color
 
-3. Optional: Connect [normalize.css](https://necolas.github.io/normalize.css/) to your project as a separate file, use `<link>` tag in `<head>`.
+<!-- 3. Optional: Connect [normalize.css](https://necolas.github.io/normalize.css/) to your project as a separate file, use `<link>` tag in `<head>`. -->
 
 ## Criteria CSS
 
