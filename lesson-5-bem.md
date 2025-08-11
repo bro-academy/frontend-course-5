@@ -1,15 +1,15 @@
 # Lesson 4. Naming methodologies: BEM
 
-**[Presentation](presentations/presentation-4-bem.pdf)**<br />
-**[Manual](manuals/manual-4-bem.pdf)**<br /> 
+**[Presentation](presentations/presentation-5-bem.pdf)**<br />
+**[Manual](manuals/manual-5-bem.pdf)**<br /> 
 
-**Part 1:** <br /> 
+<!-- **Part 1:** <br /> 
 **[Group 1 video](https://drive.google.com/file/d/136k0cBVlbYtJDJ8D8-6Ej7Ha0-PZZs62/view?usp=sharing)**<br />
 **[Group 2 video](https://drive.google.com/file/d/1dvqm-6OQsGcLAZksTcQr_Md-VNSutDJJ/view?usp=sharing)**<br />
 
 **Part 2:** <br />
 **[Group 1 video](https://drive.google.com/file/d/1HDgpjMZL0PWBzEffDw2WYv681bctsfea/view?usp=sharing)**<br />
-Missed, because of internet connection problems :(
+Missed, because of internet connection problems :( -->
 
 # Homework
 
@@ -42,7 +42,7 @@ All internal parts of a block are properly described using elements (block__elem
 ❤️ Modifiers correctly describe states or variations. <br /> 
 Modifiers reflect states, sizes, types, or other variations of a block or element. <br /> 
 
-❤️ Modifiers must not include: <br /> 
+❤️ Classes must not include: <br /> 
 * Colors: Instead of `block--red`, use a more abstract name like `block--danger`.
 * Numbers: Instead of `block--1`, use descriptive names like `block--first`.
 * Tag names: Instead of `block--div`, use meaningful modifiers like `block--highlighted`.
