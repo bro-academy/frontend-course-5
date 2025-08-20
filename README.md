@@ -58,34 +58,34 @@ Group 1
 | 23.07  | HTML                             | Aleksandr Kondakov|
 | 28.07  | [GIT](lesson-3-git.md)                              | Andrey G |
 | 30.07  | GIT                              | Andrey G |
-| 4.08   | CSS Syntax                       | Artem    |
+| 4.08   | [CSS Syntax](lesson-4-css.md)                         | Artem    |
 | 6.08   | CSS Syntax                       | Artem    |
-| 11.08  | BEM                              | Olya     |
+| 11.08  | [BEM](lesson-5-bem.md)                                | Olya     |
 | 13.08  | BEM                              | Olya     |
 | 18.08  | Practice                         | Andrey G        |
-| 20.08  | Bundler                          | Andrey G        |
+| 20.08  | [The build](lesson-6-build.md)                           | Andrey G        |
 | 25.08  | Components                       | Andrey G |
 | 27.08  | Components                       | Andrey G |
 | 1.09   | SCSS                             | Aleksandr Kondakov |
 | 3.09   | SCSS                             | Aleksandr Kondakov |
 | 8.09   | Pseudo-elements/classes          | Artem    |
-| 10.09  | Forms                            | Olya     |
-| 15.09  | Forms                            | Olya     |
+| 10.09  | Forms                            | -     |
+| 15.09  | Forms                            | -     |
 | 17.09  | Practice                         | Andrey G |
 | 22.09  | Images                           | Andrey G        |
 | 24.09  | Backgrounds                      | Andrey G |
 | 29.09  | SVG                              | Aleksandr Kondakov |
 | 1.10   | Sizes and spaces                 | Artem    |
-| 6.10   | Positioning                      | Olya        |
-| 8.10   | Flex                             | Olya     |
-| 13.10  | Flex                             | Olya     |
+| 6.10   | Positioning                      | Aleksandr Kondakov        |
+| 8.10   | Flex                             | Aleksandr Kondakov     |
+| 13.10  | Flex                             | Aleksandr Kondakov     |
 | 15.10  | Practice                         | Artem    |
 | 20.10  | Grid                             | Artem    |
 | 22.10  | Grid                             | Artem    |
 | 27.10  | Adaptive                         | Artem    |
 | 29.10  | Adaptive                         | Artem    |
 | 3.11   | Practice                         | Artem        |
-| 5.11   | CSS Decorations                  | Aleksandr Kondakov        |
+| 5.11   | CSS Decorations                  | -        |
 | 10.11  | Animation                        | Artem    |
 | 12.11  | Animation                        | Artem    |
 | 17.11  | Pre-final                        | Artem    |
@@ -103,16 +103,16 @@ Group 2
 | 17.07  | Internet + browser               | Liza     |
 | 22.07  | [HTML](lesson-2-html.md)                             | Nikita   |
 | 24.07  | HTML                             | Nikita   |
-| 29.07  | GIT                              | Sasha    |
+| 29.07  | [GIT](lesson-3-git.md)                              | Sasha    |
 | 31.07  | GIT                              | Sasha    |
-| 5.08   | CSS Syntax                       | Andrey D |
+| 5.08   | [CSS Syntax](lesson-4-css.md)                     | Andrey D |
 | 7.08   | CSS Syntax                       | Andrey D        |
-| 12.08  | BEM                              | Liza     |
+| 12.08  | [BEM](lesson-5-bem.md)                              | Liza     |
 | 14.08  | BEM                              | Liza        |
 | 19.08  | Practice                         | Liza        |
-| 21.08  | Bundler                          | Nikita        |
-| 26.08  | Components                       | Nikita   |
-| 28.08  | Components                       | Nikita   |
+| 21.08  | [The build](lesson-6-build.md)                         | Liza        |
+| 26.08  | Components                       | Liza   |
+| 28.08  | Components                       | Liza   |
 | 2.09   | SCSS                             | Liza     |
 | 4.09   | SCSS                             | Liza        |
 | 9.09   | Pseudo-elements/classes          | Andrey D        |
@@ -121,7 +121,7 @@ Group 2
 | 18.09  | Practice                         | Andrey D |
 | 23.09  | Images                           | Sasha        |
 | 25.09  | Backgrounds                      | Sasha    |
-| 30.09  | SVG                              | Sasha    |
+| 30.09  | SVG                              | Andrey D    |
 | 2.10   | Sizes and spaces                 | Andrey D        |
 | 7.10   | Positioning                      | Sasha        |
 | 9.10   | Flex                             | Sasha    |

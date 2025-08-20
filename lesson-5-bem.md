@@ -72,37 +72,37 @@ Each class should logically explain its purpose:
 # **🎨 BEM Demos & CodePen Examples**
 These demos provide practical examples of various CSS methodologies, aiding in the understanding and application of structured and maintainable CSS in your projects. 
 
-- [**BEM Example 1 – BroAcademy**](https://codepen.io/broacademy/pen/ZYzpRjq?editors=1100)  
-- [**BEM Example 5 – BroAcademy**](https://codepen.io/broacademy/pen/yyBaEQq?editors=1100)  
+- [**BEM Example 1**](https://codepen.io/broacademy/pen/ZYzpRjq?editors=1100)  
+- [**BEM Example 5**](https://codepen.io/broacademy/pen/yyBaEQq?editors=1100)  
   *Two similar examples showcasing how modifiers work in BEM. Demonstrates different states of a component using BEM naming conventions.*
 
-- 🟢 [**BEM Example 3 – MattIn4D**](https://codepen.io/MattIn4D/pen/AYyxqO?editors=1000)  
+- 🟢 [**BEM Example 3**](https://codepen.io/MattIn4D/pen/AYyxqO?editors=1000)  
   *An example of using modifiers in BEM. Shows how modifying a class can affect the appearance and behavior of a component.*
 
-- [**BEM Example 4 – BroAcademy**](https://codepen.io/broacademy/pen/ByBLVGZ?editors=1000)  
+- [**BEM Example 4**](https://codepen.io/broacademy/pen/ByBLVGZ?editors=1000)  
   *A product card component structured with BEM. Demonstrates how to separate blocks, elements, and modifiers effectively.*
 
-- [**BEM Example 6 – BroAcademy**](https://codepen.io/broacademy/pen/GgKjGPr?editors=1000)  
+- [**BEM Example 6**](https://codepen.io/broacademy/pen/GgKjGPr?editors=1000)  
   *A form with multiple elements built using BEM. Highlights the proper structuring of form fields and their corresponding elements.*
 
-- [**BEM Example 7 – Robertegna**](https://codepen.io/robertegna/pen/YqGRJp?editors=1000)  
+- [**BEM Example 7**](https://codepen.io/robertegna/pen/YqGRJp?editors=1000)  
   *Explains BEM methodology through a house analogy. A great conceptual example illustrating how blocks, elements, and modifiers work together.*
 
-- 🟢 [**BEM Example 8 – Victorjeman**](https://codepen.io/victorjeman/pen/qNNzQY?editors=1000)  
+- 🟢 [**BEM Example 8**](https://codepen.io/victorjeman/pen/qNNzQY?editors=1000)  
   *Another product card example built with BEM. Demonstrates clean structuring and separation of styles for a reusable UI component.*
 
-- [**BEM Example 9 – BroAcademy**](https://codepen.io/broacademy/pen/dPbpKrY?editors=1000)  
+- [**BEM Example 9**](https://codepen.io/broacademy/pen/dPbpKrY?editors=1000)  
   *An example of navigation built using BEM methodology. Showcases how to structure menus and navigation links properly.*
 
 <!-- - [**BEM Example 10 – Nikazawila**](https://codepen.io/nikazawila/pen/XJXowd?editors=1000)   -->
 
-- [**BEM Example 12 – Ehkoo**](https://codepen.io/ehkoo/pen/KbmGEq?editors=1000)  
+- [**BEM Example 12**](https://codepen.io/ehkoo/pen/KbmGEq?editors=1000)  
   *A comparison between BEM and Atomic CSS. Shows the structural differences between the two methodologies and their impact on CSS organization.*
 
-- [**BEM Example 13 – Jeffharbers**](https://codepen.io/jeffharbers/pen/rLyjba?editors=1000)  
+- [**BEM Example 13**](https://codepen.io/jeffharbers/pen/rLyjba?editors=1000)  
   *A product card with modifiers. Demonstrates how to adjust styles dynamically by applying BEM modifiers to elements.*
 
-- [**BEM Example 14 – HQDrone**](https://codepen.io/hqdrone/pen/QWEWpQp?editors=1000)  
+- [**BEM Example 14**](https://codepen.io/hqdrone/pen/QWEWpQp?editors=1000)  
   *A mini website example structured using BEM. Focus on how classes are applied rather than the markup itself. Uses Yandex-style BEM naming with underscores `_` for modifiers instead of `--`.*
 
 ---
@@ -112,30 +112,30 @@ These demos provide practical examples of various CSS methodologies, aiding in t
 - [**SMACSS Example 1**](https://codepen.io/smacss-exemples/pen/WNrbzX)  
   *Demonstrates a dashboard layout following SMACSS principles, focusing on the categorization of styles for better modularity.*
 
-- [**SMACSS Example 2 – Savemuse**](https://codepen.io/savemuse/pen/gWVpvd)  
+- [**SMACSS Example 2**](https://codepen.io/savemuse/pen/gWVpvd)  
   *Illustrates a user profile card designed with SMACSS methodology, showcasing the separation of base, layout, and module styles.*
 
 ---
 
 ## **🎨 OOCSS Demos**
 
-- [**OOCSS Example 1 – Zach Harkey**](https://codepen.io/zachharkey/pen/AxOGpz)  
+- [**OOCSS Example 1**](https://codepen.io/zachharkey/pen/AxOGpz)  
   *Features a media object pattern implemented using OOCSS, emphasizing the reuse of visual patterns and separation of structure from skin.*
 
-- [**OOCSS Example 2 – Colin**](https://codepen.io/colin/pen/DGVOBQ?editors=1000)  
+- [**OOCSS Example 2**](https://codepen.io/colin/pen/DGVOBQ?editors=1000)  
   *Presents a list item grid layout applying OOCSS principles, highlighting the flexibility and scalability of component-based design.*
 
 ---
 
 ## **🎨 Atomic CSS Demos**
 
-- [**Atomic CSS Example 1 – Okmutjxd**](https://codepen.io/okmutjxd-the-reactor/pen/jOgzRzz)  
+- [**Atomic CSS Example 1**](https://codepen.io/okmutjxd-the-reactor/pen/jOgzRzz)  
   *Showcases a button styled with Atomic CSS, demonstrating the use of single-purpose classes for rapid UI development.*
 
-- [**Atomic CSS Example 2 – TonyLe**](https://codepen.io/tonyle-geocomply/pen/xxjELYQ)  
+- [**Atomic CSS Example 2**](https://codepen.io/tonyle-geocomply/pen/xxjELYQ)  
   *Illustrates a card component built using Atomic CSS methodology, focusing on the composition of utility classes for consistent styling.*
 
-- [**Atomic CSS Example 3 – Michai**](https://codepen.io/michai/pen/LGmvJM)  
+- [**Atomic CSS Example 3**](https://codepen.io/michai/pen/LGmvJM)  
   *Demonstrates a responsive grid system implemented with Atomic CSS, showcasing the application of utility classes for layout management.*
 
 

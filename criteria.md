@@ -10,24 +10,22 @@ When developing a website, there are many conditions that must be met to ensure 
 
 ## 1. General 
 
-**1.1 ❤️ Bundler is used as a build tool**  
-   The project is set up with any Bundler for automation tasks.  
+**1.1 ❤️ The build is used**  
 
-**1.2 ❤️ Public and node_modules folders should not be in the GitHub repository**  
-   The `.gitignore` file is configured to exclude **automatically generated build files**.  
+**1.2 ❤️ Folders dist and node_modules should not be in the GitHub repository**  
+   - The `.gitignore` file is configured to exclude **automatically generated build files**.
 
-**1.3 ❤️ The project builds correctly**  
-   - After running `npm start` or `npm run dev`, the project should build **without critical errors**.  
-   - The final files should be correctly placed in `public/` **without manual intervention**.  
-   - The build process **should stop** if critical errors occur.  
+**1.3 ❤️ The project builds correctly**
+   - After running `npm run build` or `npm run dev`, the project should build **without critical errors**.
+   - The final files should be correctly placed in `dist/` **without manual intervention**.
 
-**1.4 ❤️ No errors (`error`) in the console during the build process**  
-   - The console should not show **red error messages (`error`)**.  
-   - All dependencies should be installed, and plugins should be correctly configured.  
+**1.4 ❤️ No red errors in the console during the build process**
+   - The console should not show **red error messages (`error`)**.
+   - All dependencies should be installed, and plugins should be correctly configured. 
 
-**1.5 💛 No warnings (`warning`) in the console during the build process**  
-   - The console should not show **yellow warning messages (`warning`)**, such as **package incompatibilities or missing dependencies**.  
-   - The code should follow best practices and be validated with linters (`stylelint`, `eslint`, `htmllint`).  
+**1.5 💛 No warnings in the console during the build process**
+   - The console should not show **yellow warning messages**, such as **package incompatibilities or missing dependencies**.
+   - The code should follow best practices and be validated with linters (`stylelint`, `eslint`, `prettier`). 
 
 **1.6 ❤️ File names and extensions should be lowercase without spaces.** <br />
 
@@ -210,9 +208,9 @@ All internal parts of a block are properly described using elements (`block__ele
 **5.4 ❤️ Modifiers correctly describe states or variations.**  
 Modifiers reflect states, sizes, types, or other variations of a block or element.
 
-**5.5 ❤️ Modifiers must not include:**  
+**5.5 ❤️ Classes must not include:**  
 - Colors: Instead of `block--red`, use a more abstract name like `block--danger`  
-- Numbers: Instead of `block--1`, use descriptive names like `block--first`  
+- Don’t use numbers in class names (e.g., `block--1`). Element order can change.
 - Tag names: Instead of `block--div`, use meaningful modifiers like `block--highlighted`
 
 **5.6 ❤️ Modifiers cannot be used as the only class on a tag.**  
