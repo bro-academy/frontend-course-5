@@ -56,9 +56,8 @@ Keywords are not used. <br />
 
 ## Additional homework:
 
-1. Complete one of the courses to reinforce the theory:
-   - [Scaler](https://www.scaler.com/topics/css/) modules 1-3. It takes about two hours to complete, a lot of theory without practice.
-   - [Free code camp](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-basic-css-by-building-a-cafe-menu/step-1) A detailed course where you simultaneously markup and style based on a single cohesive project. Complete if you want to practice alongside theory. The first 10 steps are only markup, then CSS starts.
+1. Complete one of the courses to reinforce the theory: 
+[Free code camp](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-basic-css-by-building-a-cafe-menu/step-1) A detailed course where you simultaneously markup and style based on a single cohesive project. Complete if you want to practice alongside theory. The first 10 steps are only markup, then CSS starts.
 
 ### Games
 
