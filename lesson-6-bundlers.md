@@ -1,9 +1,6 @@
 # Lesson 6. The build 
 
 **[Presentation 1](presentations/presentation-6-build.pdf)**<br />
-<!-- **[Presentation 2](presentations/presentation-8-templating.pdf)**<br /> -->
-<!-- **[Manual](manuals/manual-8-bundlers.pdf)**<br />  -->
-<!-- **[Manual](manuals/manual-8-templating.pdf)**<br />  -->
 
 <!-- **Part 1: Bundlers** <br /> 
 **[Group 1 video](https://drive.google.com/file/d/13g9c_Y1nAfJNX3lQchftC__sRSakatnw/view?usp=sharing)**<br />
@@ -17,20 +14,6 @@
 1. Copy the necessary the build configuration files to your project.
 2. Organize your project files:
 - Copy the styles from your existing CSS file and place them in `src/styles/style.scss`.
-
-<!-- **Part 2: Create HTML Templates Using Nunjucks**
-1. Set up the templates folder structure:
-- `src/templates/` → Main folder for all `.njk` files.
-- `src/templates/layouts/` → Base structure for pages (`base.njk`).
-- `src/templates/pages/` → Separate folder for each page (`index.njk`, `about.njk`, etc.).
-- `src/templates/partials/` → Components (e.g., header, footer, product cards).
-- `src/templates/data.json` → Store dynamic data (e.g., product lists, user profiles).
-
-2. Implement the Nunjucks templating system:
-- Create a base template (`base.njk`) with `{% block %}` sections for content.
-- Use `{% extends %}` to inherit the layout structure.
-- Include reusable components (header, footer) with `{% include %}`.
-- Work with variables and loops (`{% for %}`, `{% if %}`) to generate dynamic content. -->
 
 ## Criteria 
 
@@ -50,16 +33,6 @@
 💛 **No warnings in the console during the build process**
    - The console should not show **yellow warning messages**, such as **package incompatibilities or missing dependencies**.
    - The code should follow best practices and be validated with linters (`stylelint`, `eslint`, `prettier`).
-
-<!-- ❤️ **The project is structured using Nunjucks templates**  
-   - **Layouts (`layouts/`)** contain the base structure (`base.njk`).  
-   - **Partials (`partials/`)** store reusable components (header, footer, product cards, etc.).  
-   - **Text content is moved to `data.json`** for better management of dynamic data.   -->
-
-<!-- 💛 **Loops, variables, and dynamic data are used in Nunjucks**  
-   - **Variables are created** using `{% set %}` or fetched from `data.json`.  
-   - **Loops (`{% for %}`)** are used to generate lists of elements (e.g., products, reviews).  
-   - **Conditional statements (`{% if %}`)** are used to check for data presence or to display different blocks.   -->
 
 # Additional Materials
 
