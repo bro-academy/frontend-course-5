@@ -1,7 +1,7 @@
-# Lesson 8. Preprocessors
+# Lesson 8. Preprocessors: SCSS
 
-**[Presentation](presentations/presentation-8-preprocessors.pdf)**<br />
-**[Manual](manuals/manual-8-preprocessors.pdf)**<br /> 
+**[Presentation](presentations/presentation-8-scss.pdf)**<br />
+<!-- **[Manual](manuals/manual-8-preprocessors.pdf)**<br />  -->
 
 <!-- **Part 1:** <br /> 
 **[Group 1 video](https://drive.google.com/file/d/1hBCsdvxIbdhecLFR4KcMBZteI8-4MiG-/view)**<br />
