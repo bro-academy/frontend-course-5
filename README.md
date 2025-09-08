@@ -66,7 +66,7 @@ Group 1
 | 20.08  | [The build](lesson-6-build.md)                           | Andrey G        |
 | 25.08  | [Components: Twig](lesson-7-twig.md)                        | Andrey G |
 | 27.08  | Components: Twig                       | Andrey G |
-| 1.09   | SCSS                             | Aleksandr Kondakov |
+| 1.09   | [SCSS](lesson-8-scss.md)                             | Aleksandr Kondakov |
 | 3.09   | SCSS                             | Aleksandr Kondakov |
 | 8.09   | Pseudo-elements/classes          | Artem    |
 | 10.09  | Forms                            | -     |
@@ -113,7 +113,7 @@ Group 2
 | 21.08  | [The build](lesson-6-build.md)                         | Liza        |
 | 26.08  | [Components: Twig](lesson-7-twig.md)                        | Liza   |
 | 28.08  | Components: Twig                       | Liza   |
-| 2.09   | SCSS                             | Liza     |
+| 2.09   | [SCSS](lesson-8-scss.md)                             | Liza     |
 | 4.09   | SCSS                             | Liza        |
 | 9.09   | Pseudo-elements/classes          | Andrey D        |
 | 11.09  | Forms                            | Andrey D |
