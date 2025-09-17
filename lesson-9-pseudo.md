@@ -1,4 +1,4 @@
-# Lesson 9. CSS Pseudo-elementa and pseudo-classes
+# Lesson 9. CSS Pseudo-elements and pseudo-classes
 
 **[Presentation](presentations/presentation-9-pseudo.pdf)**<br />
 **[Manual](manuals/manual-9-pseudo.pdf)**<br />
