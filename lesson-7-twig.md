@@ -1,6 +1,6 @@
 # Lesson 6. Twig
 
-**[Presentation 1](presentations/presentation-7-twig.pdf)**<br />
+**[Presentation](presentations/presentation-7-twig.pdf)**<br />
 <!-- **[Manual](manuals/manual-8-twig.pdf)**<br />  -->
 
 <!-- **Part 1: Bundlers** <br /> 

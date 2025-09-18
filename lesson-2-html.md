@@ -1,7 +1,7 @@
 # Lesson 2. Semantic HTML
 
-**[Presentation](presentations/presentation-2-html-1.pdf)**<br />
-**[Presentation](presentations/presentation-2-html-2.pdf)**<br />
+**[Presentation 1](presentations/presentation-2-html-1.pdf)**<br />
+**[Presentation 2](presentations/presentation-2-html-2.pdf)**<br />
 **[Manual](manuals/manual-2-html.pdf)**<br /> 
 
 <!-- **Part 1:** <br />

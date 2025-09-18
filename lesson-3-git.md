@@ -1,7 +1,7 @@
 # Lesson 3. Git & Github 
 
 **[Presentation 1](presentations/presentation-3-git-1.pdf)**<br />
-**[Presentation 2](presentations/presentation-3-2-git.pdf)**<br />
+**[Presentation 2](presentations/presentation-3-git-2.pdf)**<br />
 **[Manual](manuals/manual-3-git.pdf)**<br /> 
 
 **Part 1:** <br /> 

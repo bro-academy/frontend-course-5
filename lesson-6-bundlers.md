@@ -1,6 +1,6 @@
 # Lesson 6. The build 
 
-**[Presentation 1](presentations/presentation-6-build.pdf)**<br />
+**[Presentation](presentations/presentation-6-build.pdf)**<br />
 
 <!-- **Part 1: Bundlers** <br /> 
 **[Group 1 video](https://drive.google.com/file/d/13g9c_Y1nAfJNX3lQchftC__sRSakatnw/view?usp=sharing)**<br />

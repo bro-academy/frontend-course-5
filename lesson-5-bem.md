@@ -1,4 +1,4 @@
-# Lesson 4. Naming methodologies: BEM
+# Lesson 5. Naming methodologies: BEM
 
 **[Presentation](presentations/presentation-5-bem.pdf)**<br />
 **[Manual](manuals/manual-5-bem.pdf)**<br /> 

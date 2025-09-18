@@ -68,8 +68,8 @@ Group 1
 | 27.08  | Components: Twig                       | Andrey G |
 | 1.09   | [SCSS](lesson-8-scss.md)                             | Aleksandr Kondakov |
 | 3.09   | SCSS                             | Aleksandr Kondakov |
-| 8.09   | Pseudo-elements/classes          | Artem    |
-| 10.09  | Forms                            | -     |
+| 8.09   | [Pseudo-elements/classes](lesson-9-pseudo.md)          | Artem    |
+| 10.09  | [Forms](lesson-10-forms.md)                            | -     |
 | 15.09  | Forms                            | -     |
 | 17.09  | Practice                         | Andrey G |
 | 22.09  | Images                           | Andrey G        |
@@ -115,8 +115,8 @@ Group 2
 | 28.08  | Components: Twig                       | Liza   |
 | 2.09   | [SCSS](lesson-8-scss.md)                             | Liza     |
 | 4.09   | SCSS                             | Liza        |
-| 9.09   | Pseudo-elements/classes          | Andrey D        |
-| 11.09  | Forms                            | Andrey D |
+| 9.09   | [Pseudo-elements/classes](lesson-9-pseudo.md)          | Andrey D        |
+| 11.09  | [Forms](lesson-10-forms.md)                          | Andrey D |
 | 16.09  | Forms                            | Andrey D |
 | 18.09  | Practice                         | Andrey D |
 | 23.09  | Images                           | Sasha        |
