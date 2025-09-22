@@ -1,8 +1,8 @@
 <!-- **[CSS and Object ViewBox](https://ishadeed.com/article/css-object-view-box)**: Considers how the viewBox property in SVG can be used to control the scaling and positioning of SVG elements, and how these elements interact with CSS. -->
 # Lesson 11. Images in the web
 
-<!-- **[Presentation 1](presentations/presentation-11-images-1.pdf)**<br /> -->
-<!-- **[Presentation 2](presentations/presentation-11-images-2.pdf)**<br /> -->
+**[Presentation 1](presentations/presentation-11-images-1.pdf)**<br />
+**[Presentation 2](presentations/presentation-11-images-2.pdf)**<br />
 **[Manual](manuals/manual-11-images.pdf)**<br /> 
 
 <!-- **Part 1:** <br />
