@@ -72,7 +72,7 @@ Group 1
 | 10.09  | [Forms](lesson-10-forms.md)                            | -     |
 | 15.09  | Forms                            | -     |
 | 17.09  | Practice                         | Andrey G |
-| 22.09  | Images                           | Andrey G        |
+| 22.09  | [Images](lesson-11-images.md)                          | Andrey G        |
 | 24.09  | Backgrounds                      | Andrey G |
 | 29.09  | SVG                              | Aleksandr Kondakov |
 | 1.10   | Sizes and spaces                 | Artem    |
@@ -119,7 +119,7 @@ Group 2
 | 11.09  | [Forms](lesson-10-forms.md)                          | Andrey D |
 | 16.09  | Forms                            | Andrey D |
 | 18.09  | Practice                         | Andrey D |
-| 23.09  | Images                           | Sasha        |
+| 23.09  | [Images](lesson-11-images.md)                            | Sasha        |
 | 25.09  | Backgrounds                      | Sasha    |
 | 30.09  | SVG                              | Andrey D    |
 | 2.10   | Sizes and spaces                 | Andrey D        |

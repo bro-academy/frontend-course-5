@@ -16,14 +16,13 @@
 # Homework
 
 1. Export all images from the Figma template in suitable formats:
-    - webp
+    - jpg/png
     - svg (only export, do not insert)
 2. Insert images into your markup, using the appropriate method of insertion:
-    - `<img>` for content images
+    - `<img>` and `<picture>` for content images
     - `background-image` for decorative images
 3. Add alt text in `<img>` tags. 
 4. Add basic sizes: width and height, in `<img>` tags. 
-5. Add background-color property for selectors with background-image. 
 
 ## Additionally:
 1. Add a favicon to the website.
