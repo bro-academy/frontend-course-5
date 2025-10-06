@@ -74,9 +74,9 @@ Group 1
 | 17.09  | Practice                         | Andrey G |
 | 22.09  | [Images](lesson-11-images.md)                          | Andrey G        |
 | 24.09  | Backgrounds                      | Andrey G |
-| 29.09  | SVG                              | Aleksandr Kondakov |
-| 1.10   | Sizes and spaces                 | Artem    |
-| 6.10   | Positioning                      | Aleksandr Kondakov        |
+| 29.09  | [SVG](lesson-12-svg.md)                               | Aleksandr Kondakov |
+| 1.10   | [Sizes and spaces](lesson-13-spaces.md)                  | Artem    |
+| 6.10   | [Positioning](lesson-14-position.md)                       | Aleksandr Kondakov        |
 | 8.10   | Flex                             | Aleksandr Kondakov     |
 | 13.10  | Flex                             | Aleksandr Kondakov     |
 | 15.10  | Practice                         | Artem    |
@@ -121,9 +121,9 @@ Group 2
 | 18.09  | Practice                         | Andrey D |
 | 23.09  | [Images](lesson-11-images.md)                            | Sasha        |
 | 25.09  | Backgrounds                      | Sasha    |
-| 30.09  | SVG                              | Andrey D    |
-| 2.10   | Sizes and spaces                 | Andrey D        |
-| 7.10   | Positioning                      | Sasha        |
+| 30.09  | [SVG](lesson-12-svg.md)                               | Andrey D    |
+| 2.10   | [Sizes and spaces](lesson-13-spaces.md)                 | Andrey D        |
+| 7.10   | [Positioning](lesson-14-position.md)                      | Sasha        |
 | 9.10   | Flex                             | Sasha    |
 | 14.10  | Flex                             | Sasha    |
 | 16.10  | Practice                         | Sasha    |
