@@ -1,7 +1,7 @@
-# Lesson 11. Position and flexbox
+# Lesson 14. Position and flexbox
 
-**[Presentation](presentations/presentation-11-flex.pdf)**<br />
-**[Manual](manuals/manual-11-flex.pdf)**<br /> 
+**[Presentation](presentations/presentation-14-position.pdf)**<br />
+**[Manual](manuals/manual-14-position.pdf)**<br /> 
 
 <!-- **Part 1:** <br />
 **[Group 1 video](https://drive.google.com/file/d/1lERTL7lKzP0MnS9sblLNfSnK4vwkk5_p/view?usp=sharing)**<br />
@@ -13,10 +13,12 @@
 
 # Homework
 
-1. Use positioning properties where necessary<br />
-   1.1. Fix header <br />
-   1.2. Card labels <br />
-   1.3. Sticky sidebar in catalog and blog page <br />
+Use positioning properties where necessary, for example:
+- for the header,
+- the sidebar on the blog page,
+- and the filter sidebar on the catalog page.
+
+Also, apply absolute positioning where it is suitable.
 
 # Demos
 
