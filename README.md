@@ -77,7 +77,7 @@ Group 1
 | 29.09  | [SVG](lesson-12-svg.md)                               | Aleksandr Kondakov |
 | 1.10   | [Sizes and spaces](lesson-13-spaces.md)                  | Artem    |
 | 6.10   | [Positioning](lesson-14-position.md)                       | Aleksandr Kondakov        |
-| 8.10   | Flex                             | Aleksandr Kondakov     |
+| 8.10   | [Flex](lesson-15-pflex.md)                              | Aleksandr Kondakov     |
 | 13.10  | Flex                             | Aleksandr Kondakov     |
 | 15.10  | Practice                         | Artem    |
 | 20.10  | Grid                             | Artem    |
@@ -124,7 +124,7 @@ Group 2
 | 30.09  | [SVG](lesson-12-svg.md)                               | Andrey D    |
 | 2.10   | [Sizes and spaces](lesson-13-spaces.md)                 | Andrey D        |
 | 7.10   | [Positioning](lesson-14-position.md)                      | Sasha        |
-| 9.10   | Flex                             | Sasha    |
+| 9.10   | [Flex](lesson-15-pflex.md)                              | Sasha    |
 | 14.10  | Flex                             | Sasha    |
 | 16.10  | Practice                         | Sasha    |
 | 21.10  | Grid                             | Andrey D |
