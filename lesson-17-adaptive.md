@@ -1,6 +1,6 @@
 # Lesson 17. Adaptive layouts
 
-**[Presentation](presentations/presentation-17-adaptive.pdf)**<br />
+<!-- **[Presentation](presentations/presentation-17-adaptive.pdf)**<br /> -->
 <!-- **[Manual](manuals/manual-13-adaptive.pdf)**<br />  -->
 
  <!-- **Part 1:** <br /> 
