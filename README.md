@@ -77,15 +77,15 @@ Group 1
 | 29.09  | [SVG](lesson-12-svg.md)                               | Aleksandr Kondakov |
 | 1.10   | [Sizes and spaces](lesson-13-spaces.md)                  | Artem    |
 | 6.10   | [Positioning](lesson-14-position.md)                       | Aleksandr Kondakov        |
-| 8.10   | [Flex](lesson-15-pflex.md)                              | Aleksandr Kondakov     |
+| 8.10   | [Flex](lesson-15-flex.md)                              | Aleksandr Kondakov     |
 | 13.10  | Flex                             | Aleksandr Kondakov     |
 | 15.10  | Practice                         | Artem    |
-| 20.10  | Grid                             | Artem    |
+| 20.10  | [Grid](lesson-16-grid.md)                               | Artem    |
 | 22.10  | Grid                             | Artem    |
-| 27.10  | Adaptive                         | Artem    |
-| 29.10  | Adaptive                         | Artem    |
+| 27.10  | [Adaptive](lesson-17-adaptive.md)                       | Andrey G    |
+| 29.10  | Adaptive                         | Andrey G    |
 | 3.11   | Practice                         | Artem        |
-| 5.11   | CSS Decorations                  | -        |
+| 5.11   | CSS Decorations                  | Artem        |
 | 10.11  | Animation                        | Artem    |
 | 12.11  | Animation                        | Artem    |
 | 17.11  | Pre-final                        | Artem    |
@@ -124,12 +124,12 @@ Group 2
 | 30.09  | [SVG](lesson-12-svg.md)                               | Andrey D    |
 | 2.10   | [Sizes and spaces](lesson-13-spaces.md)                 | Andrey D        |
 | 7.10   | [Positioning](lesson-14-position.md)                      | Sasha        |
-| 9.10   | [Flex](lesson-15-pflex.md)                              | Sasha    |
+| 9.10   | [Flex](lesson-15-flex.md)                              | Sasha    |
 | 14.10  | Flex                             | Sasha    |
 | 16.10  | Practice                         | Sasha    |
-| 21.10  | Grid                             | Andrey D |
+| 21.10  | [Grid](lesson-16-grid.md)                              | Andrey D |
 | 23.10  | Grid                             | Andrey D |
-| 28.10  | Adaptive                         | Andrey D |
+| 28.10  | [Adaptive](lesson-17-adaptive.md)                          | Andrey D |
 | 30.10  | Adaptive                         | Andrey D        |
 | 4.11   | Practice                         | Andrey D        |
 | 6.11   | CSS Decorations                  | Andrey D |
