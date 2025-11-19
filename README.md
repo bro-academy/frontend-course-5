@@ -85,10 +85,10 @@ Group 1
 | 27.10  | [Adaptive](lesson-17-adaptive.md)                       | Andrey G    |
 | 29.10  | Adaptive                         | Andrey G    |
 | 3.11   | Practice                         | Artem        |
-| 5.11   | CSS Decorations                  | Artem        |
-| 10.11  | Animation                        | Artem    |
+| 5.11   | [CSS Decorations](lesson-18-decorations.md)                  | Artem        |
+| 10.11  | [Animation](lesson-19-animations.md)                          | Artem    |
 | 12.11  | Animation                        | Artem    |
-| 17.11  | Pre-final                        | Artem    |
+| 17.11  | [Pre-final](lesson-20-prefinal.md)                          | Artem    |
 | 19.11  | Pixel perfect / content overflow | —        |
 |        | Diploma                          |          |
 |        | Diploma                          |          |
@@ -132,10 +132,10 @@ Group 2
 | 28.10  | [Adaptive](lesson-17-adaptive.md)                          | Andrey D |
 | 30.10  | Adaptive                         | Andrey D        |
 | 4.11   | Practice                         | Andrey D        |
-| 6.11   | CSS Decorations                  | Andrey D |
-| 11.11  | Animation                        | Liza        |
+| 6.11   | [CSS Decorations](lesson-18-decorations.md)                   | Andrey D |
+| 11.11  | [Animation](lesson-19-animations.md)                        | Liza        |
 | 13.11  | Animation                        | Liza        |
-| 18.11  | Pre-final                        | Liza     |
+| 18.11  | [Pre-final](lesson-20-prefinal.md)                        | Liza     |
 | 20.11  | Pixel perfect / content overflow | Liza     |
 |        | Diploma                          |          |
 |        | Diploma                          |          |
